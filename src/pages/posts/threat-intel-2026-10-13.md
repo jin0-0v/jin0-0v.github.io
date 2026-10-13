@@ -18,21 +18,3 @@ tags: ["security", "threat-intel", "daily-report"]
 
 ---
 
-## Cisco Talos Blog
-
-⚠️ 오류 / Error: models/gemini-3.8-flash-lite is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
-
----
-
-## SANS Blog
-
-⚠️ 오류 / Error: models/gemini-3.8-flash-lite is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
-
----
-
-## Talos Vulnerability Reports
-
-⚠️ 오류 / Error: models/gemini-3.8-flash-lite is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
-
----
-
