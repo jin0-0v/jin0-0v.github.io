@@ -1,20 +1,26 @@
 ---
 layout: ../../layouts/post.astro
-title: "Threat Intelligence Daily Report - ${today}"
+title: "보안 위협 인텔 데일리 레포트 - 2026-10-13 / Daily Threat Intel Report"
 pubDate: 2026-10-13
-description: "2026-10-13 기준 Darktrace, Cisco Talos, SANS 보안 블로그 요약 (한/영 병기)"
+description: "2026-10-13 기준 신규 게시물이 있었던 소스 요약 (한/영 병기): SANS Blog, Talos Vulnerability Reports"
 author: "AI 자동 요약"
 isPinned: false
-excerpt: "2026-10-13 기준 Darktrace, Cisco Talos, SANS 보안 블로그 요약 (한/영 병기)"
+excerpt: "2026-10-13 기준 신규 게시물이 있었던 소스 요약 (한/영 병기): SANS Blog, Talos Vulnerability Reports"
 image:
   src:
   alt:
 tags: ["security", "threat-intel", "daily-report"]
 ---
 
-## Darktrace Blog
+## SANS Blog
 
-오늘 신규 게시물 없음 / No new posts today (가장 최근 글 / Latest: AI-Assisted Attacks Still Leave a Behavioral Trace, Sep 30, 2026)
+⚠️ 오류 / Error: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+
+---
+
+## Talos Vulnerability Reports
+
+⚠️ 오류 / Error: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
 
 ---
 
