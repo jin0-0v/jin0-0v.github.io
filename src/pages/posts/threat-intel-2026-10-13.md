@@ -14,7 +14,7 @@ tags: ["security", "threat-intel", "daily-report"]
 
 ## Darktrace Blog
 
-⚠️ 오류 / Error: models/gemini-3.8-flash-lite is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+오늘 신규 게시물 없음 / No new posts today (가장 최근 글 / Latest: AI-Assisted Attacks Still Leave a Behavioral Trace, Sep 30, 2026)
 
 ---
 
