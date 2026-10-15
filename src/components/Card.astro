@@ -24,9 +24,6 @@ const isPinned = post.frontmatter.isPinned === true;
 						{isPinned && <PinnedBadge size="sm" />}
 						<p>{formatDate(post.frontmatter.pubDate)}</p>
 					</div>
-					<div>
-						<p class="font-bold">{post.frontmatter.minutesRead}</p>
-					</div>
 				</div>
 
 				<p class="pb-4 text-lg font-bold">{post.frontmatter.title}</p>
