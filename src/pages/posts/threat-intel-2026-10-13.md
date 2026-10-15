@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/post.astro
-title: "보안 위협 인텔 데일리 레포트 - 2026-10-13 / Daily Threat Intel Report"
+title: "보안 위협 인텔 데일리 레포트 - 2026-10-15 / Daily Threat Intel Report"
 pubDate: 2026-10-13
-description: "2026-10-13 기준 신규 게시물이 있었던 소스 요약 (한/영 병기): SANS Blog, Talos Vulnerability Reports"
+description: "2026-10-15 기준 신규 게시물이 있었던 소스 요약 (한/영 병기): SANS Blog, Talos Vulnerability Reports"
 author: "AI 자동 요약"
 isPinned: false
-excerpt: "2026-10-13 기준 신규 게시물이 있었던 소스 요약 (한/영 병기): SANS Blog, Talos Vulnerability Reports"
+excerpt: "2026-10-15 기준 신규 게시물이 있었던 소스 요약 (한/영 병기): SANS Blog, Talos Vulnerability Reports"
 image:
   src:
   alt:
@@ -20,7 +20,7 @@ tags: ["security", "threat-intel", "daily-report"]
 
 ## Talos Vulnerability Reports
 
-오늘 날짜(2026-10-13)로 게시된 취약점 보고서는 총 2건입니다.
+오늘 날짜(2026-10-15)로 게시된 취약점 보고서는 총 2건입니다.
 
 ---
 

@@ -8,7 +8,6 @@ interface Props {
 	title: string;
 	author: string;
 	tags: string[];
-	minutesRead: string;
 	pubDate: string;
 	isPinned?: boolean;
 	img: {
@@ -17,7 +16,7 @@ interface Props {
 	};
 }
 
-const { title, pubDate, tags, minutesRead, img, isPinned = false } = Astro.props;
+const { title, pubDate, tags, img, isPinned = false } = Astro.props;
 
 const formattedDate = formatDate(pubDate);
 ---
@@ -32,7 +31,7 @@ const formattedDate = formatDate(pubDate);
 			<Tags tags={tags} withHref={true} />
 		</div>
 		<div class="text-sm">
-			<span>{formattedDate}</span> - <span>{minutesRead}</span>
+			<span>{formattedDate}</span>
 		</div>
 
 		{img.src ? <img src={img.src} alt={img.alt} /> : null}
